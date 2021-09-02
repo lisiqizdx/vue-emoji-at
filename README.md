@@ -10,7 +10,7 @@
 
 ### Project setup
 ```
-yarn install
+npm install
 
-yarn serve
+npm run serve
 ```
